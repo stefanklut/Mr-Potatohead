@@ -12,7 +12,7 @@ The interface is a picture of the standard body of the "Mr Potatohead" with chec
 ## Screenshots
 
 ### Opening Screen:
-![opening screen](doc/Screenshot_20181102-225809.png)
+<img src="doc/Screenshot_20181102-225809.png" width="200">
 
 ### Some boxes checked:
 ![some boxes checked](doc/Screenshot_20181102-225834.png)
