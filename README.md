@@ -1,8 +1,8 @@
 # Mr-Potatohead
 
 ## Author info
-**Name:** Stefan Klut
-**Studentnumber:** 11331720
+**Name:** Stefan Klut <br>
+**Studentnumber:** 11331720 <br>
 **email:** stefanklut12@gmail.com
 
 ## Description
@@ -12,14 +12,14 @@ The interface is a picture of the standard body of the "Mr Potatohead" with chec
 ## Screenshots
 
 ### Opening Screen
-![opening screen](Mr-Potatohead/doc/Screenshot_20181102-225809.png)
+![opening screen](doc/Screenshot_20181102-225809.png)
 
 ### Some boxes checked
-![some boxes checked](Mr-Potatohead/doc/Screenshot_20181102-225834.png)
+![some boxes checked](doc/Screenshot_20181102-225834.png)
 
 ### All boxes checked
-![all boxes checked](Mr-Potatohead/doc/Screenshot_20181102-225818.png)
+![all boxes checked](doc/Screenshot_20181102-225818.png)
 
 ### Landscape mode
-![landscape mode](Mr-Potatohead/doc/Screenshot_20181102-225850.png)
+![landscape mode](doc/Screenshot_20181102-225850.png)
       
