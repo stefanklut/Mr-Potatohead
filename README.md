@@ -12,14 +12,14 @@ The interface is a picture of the standard body of the "Mr Potatohead" with chec
 ## Screenshots
 
 ### Opening Screen:
-<img src="doc/Screenshot_20181102-225809.png" width="200">
+<img src="doc/Screenshot_20181102-225809.png" width="50%">
 
 ### Some boxes checked:
-![some boxes checked](doc/Screenshot_20181102-225834.png)
+<img src="doc/Screenshot_20181102-225834.png" width="50%">
 
 ### All boxes checked:
-![all boxes checked](doc/Screenshot_20181102-225818.png)
+<img src="doc/Screenshot_20181102-225818.png" width="50%">
 
 ### Landscape mode:
-![landscape mode](doc/Screenshot_20181102-225850.png)
+<img src="doc/Screenshot_20181102-225850.png" width="100%">
       
