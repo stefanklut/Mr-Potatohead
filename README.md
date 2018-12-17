@@ -13,14 +13,14 @@ The checkboxes are linked to a java program that can toggle the visiblity of the
 ## Screenshots
 
 ### Opening Screen:
-<img src="doc/Screenshot_20181102-225809.png" width="50%">
+<img src="doc/Screenshot_20181102-225809.png" width="30%">
 
 ### Some boxes checked:
-<img src="doc/Screenshot_20181102-225834.png" width="50%">
+<img src="doc/Screenshot_20181102-225834.png" width="30%">
 
 ### All boxes checked:
-<img src="doc/Screenshot_20181102-225818.png" width="50%">
+<img src="doc/Screenshot_20181102-225818.png" width="30%">
 
 ### Landscape mode:
-<img src="doc/Screenshot_20181102-225850.png" width="100%">
+<img src="doc/Screenshot_20181102-225850.png" width="60%">
       
